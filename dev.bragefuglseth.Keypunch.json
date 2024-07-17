@@ -55,8 +55,8 @@
             {
                "type":"git",
                "url":"https://github.com/bragefuglseth/keypunch.git",
-               "tag":"v2.0",
-               "commit":"c2968a8c3d771c722d67e3f60e1f870419db1592"
+               "tag":"v3.0",
+               "commit":"97e2083829f7eb192c2c6dc67d8209ad2c244cc5"
             },
             "cargo-sources.json"
          ]
