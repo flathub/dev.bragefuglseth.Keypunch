@@ -11,7 +11,8 @@
       "--share=ipc",
       "--socket=fallback-x11",
       "--device=dri",
-      "--socket=wayland"
+      "--socket=wayland",
+      "--filesystem=xdg-run/app/com.discordapp.Discord:create"
    ],
    "build-options":{
       "append-path":"/usr/lib/sdk/rust-stable/bin"
@@ -55,8 +56,8 @@
             {
                "type":"git",
                "url":"https://github.com/bragefuglseth/keypunch.git",
-               "tag":"v4.0",
-               "commit":"f45fabf4f70b56691373d79b231a02dc4a3b89b7"
+               "tag":"v5.0",
+               "commit":"b44012ef3e66b08b6620fa19776269fea77a80ec"
             },
             "cargo-sources.json"
          ]
